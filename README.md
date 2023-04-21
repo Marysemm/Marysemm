@@ -1,7 +1,8 @@
 ### Hi👋
 I'm Mariya — Frontend developer from St. Petersburg
 
-- 🌱 I’m currently learning ReactJS
+- 🌱 I’m currently working on Javascript, ReactJS
+- 💻 Learning TypeScript
 - 📫 How to reach me: 
 • <a href="https://t.me/mariyazlnk" target="blank">Telegram</a>
 • <a href="mariyazlnk@gmail.com" target="blank">E-mail</a>
