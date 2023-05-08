@@ -4,12 +4,17 @@
 <div align="center">
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTUxNjI5NDVkOWYwZGM2ZDY4YzJhOWVhNTFiMTIzOWMwZjFjN2QyMCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/VNPBBjDYd7kFVxLdW4/giphy.gif">
 </div>
+<br>
+<br>
 
-- 🔭 I’m currently working on [Language-App](https://github.com/Marysemm/Language-App)
+- 💻 I’m currently working on JavaScript, ReactJS
+- 🪄 I’m currently creating [Flower Shop](https://github.com/Marysemm/Flower-Shop) website
 - 🌱 I’m currently learning **TypeScript**
+- 💬 Let's talk about music, wine and coding 💜
 - 📫 How to reach me: 
 • <a href="https://t.me/mariyazlnk" target="blank">Telegram</a>
 • <a href="mariyazlnk@gmail.com" target="blank">E-mail</a>
+<br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marysemm&layout=compact)](https://github.com/Marysemm/github-readme-stats)
 
