@@ -8,7 +8,6 @@
 <br>
 
 - 💻 I’m currently working on JavaScript, ReactJS
-- 🪄 I’m currently creating [Flower Shop](https://github.com/Marysemm/Flower-Shop) website
 - 🌱 I’m currently learning **TypeScript**
 - 💬 Let's talk about music, wine and coding 💜
 - 📫 How to reach me: 
